@@ -1,0 +1,9 @@
+torch
+torchvision
+timm
+onnx
+onnxruntime
+numpy
+Pillow
+opencv-python
+paho-mqtt
