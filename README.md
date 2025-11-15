@@ -1,4 +1,4 @@
-# LED Watch – KV260 SmartCam
+# Fault Detection on WiFi Extender – KV260 SmartCam
 
 Simple end‑to‑end pipeline to detect whether an LED is **ON** or **OFF** using a MobileNetV2 classifier and the Kria KV260 SmartCam RTSP stream, with optional MQTT publishing.
 
